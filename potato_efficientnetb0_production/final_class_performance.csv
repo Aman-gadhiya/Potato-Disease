@@ -1,0 +1,4 @@
+Class,Test Samples,Correct Predictions,Incorrect Predictions,Accuracy (%),Error Rate (%)
+Potato___Early_blight,100,100,0,100.0,0.0
+Potato___Late_blight,100,96,4,96.0,4.0
+Potato___healthy,16,16,0,100.0,0.0

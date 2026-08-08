@@ -1,0 +1,5 @@
+true_label,actual_class,predicted_label,predicted_class,correct,confidence,confidence_percent
+1,Potato___Late_blight,2,Potato___healthy,False,0.6103573,61.03573
+1,Potato___Late_blight,0,Potato___Early_blight,False,0.536828,53.682796
+1,Potato___Late_blight,0,Potato___Early_blight,False,0.6946395,69.46395
+1,Potato___Late_blight,2,Potato___healthy,False,0.55619544,55.619545

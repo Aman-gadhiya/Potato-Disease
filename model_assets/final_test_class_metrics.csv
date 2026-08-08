@@ -1,0 +1,4 @@
+Class,Precision,Recall,F1-Score,Support
+Potato___Early_blight,0.9803921568627451,1.0,0.9900990099009901,100
+Potato___Late_blight,1.0,0.96,0.9795918367346939,100
+Potato___healthy,0.8888888888888888,1.0,0.9411764705882353,16

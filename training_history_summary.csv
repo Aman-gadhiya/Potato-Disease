@@ -1,0 +1,3 @@
+Training Stage,Best Validation Accuracy,Best Validation Loss,Maximum Accuracy Gap,Epochs Completed
+Stage 1 — Frozen Backbone,0.9860464930534363,0.05960017070174217,0.024434149265289307,11
+Stage 2 — Fine-Tuning,0.9860464930534363,0.05223475769162178,0.005243062973022461,8

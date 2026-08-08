@@ -1,0 +1,9 @@
+Metric,Value
+Total Test Samples,216
+Correct Predictions,212
+Incorrect Predictions,4
+Overall Error Rate,1.8518518518518516
+Average Correct Confidence,0.98697996
+Average Incorrect Confidence,0.59950507
+Highest Error Class,Potato___Late_blight
+Highest Class Error Rate,4.0

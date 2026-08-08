@@ -1,0 +1,23 @@
+{
+    "project_name": "Potato Disease Classification",
+    "model_name": "EfficientNetB0",
+    "model_type": "Transfer Learning + Fine-Tuning",
+    "num_classes": 3,
+    "classes": [
+        "Potato___Early_blight",
+        "Potato___Late_blight",
+        "Potato___healthy"
+    ],
+    "input_size": [
+        224,
+        224,
+        3
+    ],
+    "training_stage": "Fine-Tuned",
+    "selection_strategy": "Best validation accuracy",
+    "best_validation_accuracy": 0.9860464930534363,
+    "best_fine_tuning_epoch": 1,
+    "production_model": "potato_efficientnetb0_production/potato_efficientnetb0_final.keras",
+    "class_mapping_file": "potato_efficientnetb0_production/class_mapping.json",
+    "preprocessing_file": "potato_efficientnetb0_production/preprocessing_config.json"
+}

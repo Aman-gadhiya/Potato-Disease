@@ -1,0 +1,3 @@
+Actual Class,Predicted Class,Error Count
+Potato___Late_blight,Potato___Early_blight,2
+Potato___Late_blight,Potato___healthy,2

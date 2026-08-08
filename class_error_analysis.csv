@@ -1,0 +1,4 @@
+Class,Actual Samples,Correct,Incorrect,Error Rate,Error Rate (%)
+Potato___Early_blight,100,100,0,0.0,0.0
+Potato___Late_blight,100,96,4,0.04,4.0
+Potato___healthy,16,16,0,0.0,0.0

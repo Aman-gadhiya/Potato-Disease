@@ -1,0 +1,7 @@
+{
+    "image_height": 224,
+    "image_width": 224,
+    "channels": 3,
+    "dtype": "float32",
+    "num_classes": 3
+}

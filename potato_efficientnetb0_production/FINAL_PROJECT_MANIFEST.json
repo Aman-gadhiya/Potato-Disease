@@ -1,0 +1,9 @@
+{
+    "production_model": "potato_efficientnetb0_production/potato_efficientnetb0_final.keras",
+    "class_mapping": "potato_efficientnetb0_production/class_mapping.json",
+    "preprocessing_configuration": "potato_efficientnetb0_production/preprocessing_config.json",
+    "model_metadata": "potato_efficientnetb0_production/model_metadata.json",
+    "experiment_metadata": "potato_efficientnetb0_production/experiment_metadata.json",
+    "training_report": "potato_efficientnetb0_production/FINAL_TRAINING_REPORT.md",
+    "class_performance": "potato_efficientnetb0_production/final_class_performance.csv"
+}
